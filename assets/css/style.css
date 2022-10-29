@@ -46,7 +46,7 @@ body { text-align: center; background-color: #eaeaea; }
 
 .profile { margin-top: 60px; }
 .profile img { width: 60px; }
-.profile .blog { width : 35px; }
+.profile .blog { width: 35px; }
 
 .ability { margin-top: 60px; }
 .ability .sub-title { font-family: 'GmarketSansBold'; font-size:20px; margin: 5px;}
